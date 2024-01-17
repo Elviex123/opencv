@@ -14,4 +14,4 @@ while True:
         cv2.imshow('video',frame)
     else:
         break
-    cv2.waitKey(0)
+    cv2.waitKey(1)
